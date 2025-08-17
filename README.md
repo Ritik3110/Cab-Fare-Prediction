@@ -21,7 +21,7 @@ Using this enriched dataset, a **linear regression model** is developed to predi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ritik3110/Cab-Fare-Prediction-
+   git clone https://github.com/Ritik3110/Cab-Fare-Prediction
 ````
 
 2. Navigate to the project directory:
