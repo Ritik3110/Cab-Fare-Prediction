@@ -64,5 +64,3 @@ Using this enriched dataset, a **linear regression model** is developed to predi
 ```
 
 *Created by Ritik Agarwal*
-
-```
