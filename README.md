@@ -1,6 +1,4 @@
 # Cab-Fare-Prediction-
-Sure! Here's a complete `README.md` file for your project, ready to copy and use on GitHub:
-
 ````markdown
 # Ride Fare Prediction with Weather Data
 
@@ -16,13 +14,13 @@ Using this enriched dataset, a **linear regression model** is developed to predi
 - Data cleaning and encoding of categorical variables  
 - Feature engineering for improved model performance  
 - Linear regression modeling and evaluation  
-
+````
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ritik3110/Cab-Fare-Prediction
-````
+
 
 2. Navigate to the project directory:
 
